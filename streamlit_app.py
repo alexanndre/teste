@@ -2,5 +2,4 @@ import streamlit as st
 
 st.title("Hello, World!")
 st.write("Meu primeiro app em Streamlit 🚀")
-st.write("Veja isso Sra. Dany!!")
 
